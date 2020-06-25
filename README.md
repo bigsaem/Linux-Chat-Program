@@ -1,2 +1,2 @@
 # Linux-Chat-Program
-This program demonstrates communication between programs using different ports on Linux environment as a chat program.
+This program demonstrates communication between clients through a server on Linux environment as a chat program.
